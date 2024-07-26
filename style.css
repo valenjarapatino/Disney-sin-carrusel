@@ -1,0 +1,195 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*fondo de loki*/
+body{
+   background-image: url(disney+/loki/background.png);
+   background-position: center center ;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+
+/*lista 1*/
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+
+}
+
+h1{
+    color: rgb(0, 191, 255);
+    font-size: 45px;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(0, 191, 255);
+
+}
+
+h1{
+    color: rgb(0, 191, 255);
+    font-size: 45px;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+/*lista2 */
+
+nav{
+    display: flex;
+    background-position: right;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+h1{
+    color: rgb(0, 191, 255);
+    font-size: 45px;
+}
+
+.lista2 .li2{
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(0, 191, 255);
+
+}
+
+h1{
+    color: rgb(0, 191, 255);
+    font-size: 45px;
+}
+
+.ul2 .li2{
+   
+    padding: 0px 20px;
+}
+
+
+
+/*logos*/
+
+.logos{
+    width: 80px;
+    height: 80px;
+
+}
+
+/*iconos*/
+
+.iconos{
+
+    width: 30px;
+    height: 30px;
+
+}
+/*logo-loki*/
+
+.logo-loki{
+
+    width: 300px;
+    height: 300px;
+    background-position: center center ;
+    border: 20px;
+    padding: 60px;
+}
+
+/*imagenes -botones loki */
+
+.img-botones{
+    width: 30px;
+    height: 30px;
+}
+
+
+/*botes*/
+
+button{
+   background-color: #fff;
+   color:black; 
+   padding: 10px 50px; 
+   border: none;
+   border-radius: 5px;
+   cursor: pointer; 
+   border-color: black;
+   border-style: solid;
+   border-width: 2px;
+   margin:  10px;
+
+}
+
+/*boton negro 2*/
+
+.button2{
+    background-color: #090909;
+    color:rgb(255, 255, 255); 
+    padding: 10px 50px; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+    border-color: rgb(255, 255, 255); 
+    border-style: solid;
+    border-width: 2px;
+ 
+ }
+ 
+ /*texto p*/
+
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 25px;
+    padding: 40px;
+
+ }
+
+ /*imagenes
+.imagenes{
+
+    width: 300px;
+    height: 300px;
+}
+*/
+ 
+ 
+
+      
+
+
+
+
